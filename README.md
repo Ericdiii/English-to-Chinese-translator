@@ -6,7 +6,7 @@
 - **Library:** json, urllib, PyQt5
 
 ## Usage
-Run the demo script
+Run the script
 ```sh
 Translator_file.py
 ```
