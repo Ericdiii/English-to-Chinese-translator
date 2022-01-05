@@ -2,7 +2,7 @@
 
 ## Dependencies
 - **System:** Windows 10</br>
-- **Language:** Python</br>
+- **Language:** Python 3.8</br>
 - **Library:** json, urllib, PyQt5
 
 ## Usage
