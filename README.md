@@ -1,6 +1,6 @@
 # English to Chinese translator
 
-## Dependencies
+## Tested on
 - **System:** Windows 10</br>
 - **Language:** Python 3.8</br>
 
