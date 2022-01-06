@@ -1,4 +1,4 @@
-# Python-based-translator
+# English to Chinese translator
 
 ## Dependencies
 - **System:** Windows 10</br>
